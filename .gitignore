@@ -1,0 +1,11 @@
+.gradle
+build/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.dbeaver-data-sources.xml
+bin/
+.DS_Store
+.attach*
